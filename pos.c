@@ -1,7 +1,7 @@
 #include<stdio.h>
 void main()
 {
-int a=10;
-if(a>0)
+int f=10;
+if(f>0)
 printf("positive");
 }
